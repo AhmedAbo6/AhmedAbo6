@@ -4,7 +4,6 @@
 
 (**Some info about me**)
 
----
 
 
 ### Tech & Tools Preference
